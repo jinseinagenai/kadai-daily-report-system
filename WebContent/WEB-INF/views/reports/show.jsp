@@ -6,7 +6,8 @@
         <c:choose>
             <c:when test="${report != null}">
                 <h2>日報　詳細ページ</h2>
-<table>
+
+                <table>
                     <tbody>
                         <tr>
                             <th>氏名</th>

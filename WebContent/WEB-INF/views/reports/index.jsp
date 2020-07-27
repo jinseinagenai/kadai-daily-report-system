@@ -10,7 +10,7 @@
         </c:if>
         <h2>日報　一覧</h2>
         <table id="report_list">
-        <tbody>
+            <tbody>
                 <tr>
                     <th class="report_name">氏名</th>
                     <th class="report_date">日付</th>

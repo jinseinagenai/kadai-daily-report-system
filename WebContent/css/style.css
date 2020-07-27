@@ -78,6 +78,7 @@ button {
     color: #155724;
     background-color: #d4edda;
 }
+
 #flush_error {
     width: 100%;
     padding-top: 28px;
@@ -104,6 +105,7 @@ tr.row1 {
 tr.row0 {
         background-color: #ffffff;
 }
+
 select {
     height: 30px;
 }
@@ -151,6 +153,11 @@ table#report_list .report_title {
 table#report_list .report_action {
     width: 13%;
 }
+
 pre {
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}
+
+h3 {
+    font-size: larger;
 }
